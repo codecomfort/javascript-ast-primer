@@ -1,0 +1,19 @@
+{
+  "name": "js-ast-first",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@babel/core": "^7.1.2",
+    "ast-pretty-print": "^2.0.1",
+    "babel-log": "^2.0.0",
+    "babylon": "^7.0.0-beta.47"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
